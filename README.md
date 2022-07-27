@@ -1,9 +1,9 @@
 # CSE-122-FALL-2022-49-10
 This is an OOP Lab Repository.
 
-Section: 10
-
 Intake: 49
+
+Section: 10
 
 Id: 21225103162
 
